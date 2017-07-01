@@ -1,0 +1,5 @@
+APP_TITLE = BCSTM-Player
+APP_DESCRIPTION = Standalone BCSTM Player based on FreeShop's
+APP_AUTHOR = cheuble, TheCruel
+APP_PRODUCT_CODE = CTR-B-CSTM
+APP_UNIQUE_ID = 0x69aa3
